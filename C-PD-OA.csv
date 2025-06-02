@@ -3,9 +3,6 @@ CBD-GBF,Climate-Biodiversity Nexus,Ecosystem Condition
 CBD-GBF,Climate-Biodiversity Nexus,Environmental Assets
 CBD-GBF,Integrated Spatial Planning and Management,Ecosystem Extent
 CBD-GBF,Integrated Spatial Planning and Management,Ecosystem Condition
-CBD-GBF,Sustainable Resource Management,Flows to Economy
-CBD-GBF,Sustainable Resource Management,Ecosystem Extent
-CBD-GBF,Sustainable Resource Management,Ecosystem Condition
 CBD-GBF,Pollution Reduction and Circular Economy,Flows to Environment
 CBD-GBF,Pollution Reduction and Circular Economy,Ocean Economy
 CBD-GBF,Climate-Biodiversity Nexus,Ecosystem Condition
@@ -29,9 +26,6 @@ SDGs,Integrated Spatial Planning and Management,Ecosystem Extent
 SDGs,Integrated Spatial Planning and Management,Ecosystem Condition
 SDGs,Integrated Spatial Planning and Management,Environmental Assets
 SDGs,Governance and Legal Frameworks,Flows to Economy
-SDGs,Sustainable Resource Management,Flows to Economy
-SDGs,Sustainable Resource Management,Ecosystem Extent
-SDGs,Sustainable Resource Management,Ocean Economy
 SDGs,Pollution Reduction and Circular Economy,Flows to Environment
 SDGs,Pollution Reduction and Circular Economy,Ocean Economy
 SDGs,Climate-Biodiversity Nexus,Ecosystem Condition
@@ -53,9 +47,6 @@ SDGs,Integrated Monitoring Reporting and Data Systems,Social
 BBNJ,Integrated Spatial Planning and Management,Ecosystem Extent
 BBNJ,Integrated Spatial Planning and Management,Ecosystem Condition
 BBNJ,Integrated Spatial Planning and Management,Flows to Economy
-BBNJ,Sustainable Resource Management,Flows to Economy
-BBNJ,Sustainable Resource Management,Ecosystem Extent
-BBNJ,Sustainable Resource Management,Social
 BBNJ,Pollution Reduction and Circular Economy,Flows to Environment
 BBNJ,Pollution Reduction and Circular Economy,Governance
 BBNJ,Climate-Biodiversity Nexus,Ecosystem Condition
@@ -96,9 +87,3 @@ Global Plastics Treaty,Governance and Legal Frameworks,Governance
 Global Plastics Treaty,Governance and Legal Frameworks,Social
 Global Plastics Treaty,Integrated Monitoring Reporting and Data Systems,Flows to Environment
 Global Plastics Treaty,Integrated Monitoring Reporting and Data Systems,Ecosystem Condition
-Basel/Rotterdam/Stockholm,Pollution Reduction and Circular Economy,Flows to Environment
-Basel/Rotterdam/Stockholm,Pollution Reduction and Circular Economy,Ecosystem Condition
-Basel/Rotterdam/Stockholm,Governance and Legal Frameworks,Governance
-Basel/Rotterdam/Stockholm,Governance and Legal Frameworks,Social
-Basel/Rotterdam/Stockholm,Integrated Monitoring Reporting and Data Systems,Flows to Environment
-Basel/Rotterdam/Stockholm,Integrated Monitoring Reporting and Data Systems,Ecosystem Condition

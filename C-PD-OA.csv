@@ -8,10 +8,10 @@ CBD-GBF,Pollution Reduction and Circular Economy,Ocean Economy
 CBD-GBF,Climate-Biodiversity,Environmental Assets
 CBD-GBF,Climate-Biodiversity,Flows to Economy
 CBD-GBF,Climate-Biodiversity,Flows to Environment
-CBD-GBF,Financial and Economic Instruments,Environmental Assets
-CBD-GBF,Financial and Economic Instruments,Flows to Economy
-CBD-GBF,Financial and Economic Instruments,Flows to Economy
-CBD-GBF,Financial and Economic Instruments,Governance
+CBD-GBF,Financial Instruments,Environmental Assets
+CBD-GBF,Financial Instruments,Flows to Economy
+CBD-GBF,Financial Instruments,Flows to Economy
+CBD-GBF,Financial Instruments,Governance
 CBD-GBF,Governance and Legal Frameworks,Governance
 CBD-GBF,Governance and Legal Frameworks,Environmental Assets
 CBD-GBF,Governance and Legal Frameworks,Environmental Assets
@@ -31,9 +31,9 @@ SDGs,Pollution Reduction and Circular Economy,Ocean Economy
 SDGs,Climate-Biodiversity,Environmental Assets
 SDGs,Climate-Biodiversity,Flows to Economy
 SDGs,Climate-Biodiversity,Flows to Environment
-SDGs,Financial and Economic Instruments,Environmental Assets
-SDGs,Financial and Economic Instruments,Flows to Economy
-SDGs,Financial and Economic Instruments,Governance
+SDGs,Financial Instruments,Environmental Assets
+SDGs,Financial Instruments,Flows to Economy
+SDGs,Financial Instruments,Governance
 SDGs,Governance and Legal Frameworks,Governance
 SDGs,Governance and Legal Frameworks,Environmental Assets
 SDGs,Governance and Legal Frameworks,Environmental Assets
@@ -51,10 +51,10 @@ BBNJ,Pollution Reduction and Circular Economy,Flows to Environment
 BBNJ,Pollution Reduction and Circular Economy,Governance
 BBNJ,Climate-Biodiversity,Environmental Assets
 BBNJ,Climate-Biodiversity,Flows to Economy
-BBNJ,Financial and Economic Instruments,Environmental Assets
-BBNJ,Financial and Economic Instruments,Flows to Economy
-BBNJ,Financial and Economic Instruments,Flows to Economy
-BBNJ,Financial and Economic Instruments,Social
+BBNJ,Financial Instruments,Environmental Assets
+BBNJ,Financial Instruments,Flows to Economy
+BBNJ,Financial Instruments,Flows to Economy
+BBNJ,Financial Instruments,Social
 BBNJ,Governance and Legal Frameworks,Governance
 BBNJ,Governance and Legal Frameworks,Social
 BBNJ,Integrated Monitoring Reporting and Data Systems,Environmental Assets
@@ -69,9 +69,9 @@ Paris Agreement,Integrated Spatial Planning and Management,Environmental Assets
 Paris Agreement,Climate-Biodiversity,Environmental Assets
 Paris Agreement,Climate-Biodiversity,Flows to Economy
 Paris Agreement,Climate-Biodiversity,Environmental Assets
-Paris Agreement,Financial and Economic Instruments,Ocean Economy
-Paris Agreement,Financial and Economic Instruments,Governance
-Paris Agreement,Financial and Economic Instruments,Environmental Assets
+Paris Agreement,Financial Instruments,Ocean Economy
+Paris Agreement,Financial Instruments,Governance
+Paris Agreement,Financial Instruments,Environmental Assets
 Paris Agreement,Integrated Monitoring Reporting and Data Systems,Environmental Assets
 Paris Agreement,Integrated Monitoring Reporting and Data Systems,Environmental Assets
 Paris Agreement,Integrated Monitoring Reporting and Data Systems,Flows to Economy

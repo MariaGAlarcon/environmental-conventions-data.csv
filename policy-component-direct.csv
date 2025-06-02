@@ -1,25 +1,89 @@
-,Policy Driver,Ocean Account Component
-0,Climate-Biodiversity,Environmental Assets
-2,Integrated Spatial Planning and Management,Environmental Assets
-4,Pollution Reduction and Circular Economy,Flows to Environment
-5,Pollution Reduction and Circular Economy,Ocean Economy
-7,Climate-Biodiversity,Flows to Economy
-8,Climate-Biodiversity,Flows to Environment
-9,Financial Instruments,Environmental Assets
-10,Financial Instruments,Flows to Economy
-12,Financial Instruments,Governance
-13,Governance and Legal Frameworks,Governance
-14,Governance and Legal Frameworks,Environmental Assets
-16,Integrated Monitoring Reporting and Data Systems,Environmental Assets
-18,Integrated Monitoring Reporting and Data Systems,Flows to Economy
-19,Integrated Monitoring Reporting and Data Systems,Ocean Economy
-20,Integrated Monitoring Reporting and Data Systems,Flows to Environment
-21,Integrated Monitoring Reporting and Data Systems,Governance
-22,Integrated Monitoring Reporting and Data Systems,Social
-26,Governance and Legal Frameworks,Flows to Economy
-47,Integrated Spatial Planning and Management,Flows to Economy
-49,Pollution Reduction and Circular Economy,Governance
-55,Financial Instruments,Social
-57,Governance and Legal Frameworks,Social
-70,Financial Instruments,Ocean Economy
-80,Integrated Spatial Planning and Management,Flows to Environment
+Policy Driver,Ocean Account Component
+Climate-Biodiversity,Environmental Assets
+Climate-Biodiversity,Environmental Assets
+Integrated Spatial Planning and Management,Environmental Assets
+Integrated Spatial Planning and Management,Environmental Assets
+Pollution Reduction and Circular Economy,Flows to Environment
+Pollution Reduction and Circular Economy,Ocean Economy
+Climate-Biodiversity,Environmental Assets
+Climate-Biodiversity,Flows to Economy
+Climate-Biodiversity,Flows to Environment
+Financial Instruments,Environmental Assets
+Financial Instruments,Flows to Economy
+Financial Instruments,Flows to Economy
+Financial Instruments,Governance
+Governance and Legal Frameworks,Governance
+Governance and Legal Frameworks,Environmental Assets
+Governance and Legal Frameworks,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Flows to Economy
+Integrated Monitoring Reporting and Data Systems,Ocean Economy
+Integrated Monitoring Reporting and Data Systems,Flows to Environment
+Integrated Monitoring Reporting and Data Systems,Governance
+Integrated Monitoring Reporting and Data Systems,Social
+Integrated Spatial Planning and Management,Environmental Assets
+Integrated Spatial Planning and Management,Environmental Assets
+Integrated Spatial Planning and Management,Environmental Assets
+Governance and Legal Frameworks,Flows to Economy
+Pollution Reduction and Circular Economy,Flows to Environment
+Pollution Reduction and Circular Economy,Ocean Economy
+Climate-Biodiversity,Environmental Assets
+Climate-Biodiversity,Flows to Economy
+Climate-Biodiversity,Flows to Environment
+Financial Instruments,Environmental Assets
+Financial Instruments,Flows to Economy
+Financial Instruments,Governance
+Governance and Legal Frameworks,Governance
+Governance and Legal Frameworks,Environmental Assets
+Governance and Legal Frameworks,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Flows to Economy
+Integrated Monitoring Reporting and Data Systems,Ocean Economy
+Integrated Monitoring Reporting and Data Systems,Flows to Environment
+Integrated Monitoring Reporting and Data Systems,Governance
+Integrated Monitoring Reporting and Data Systems,Social
+Integrated Spatial Planning and Management,Environmental Assets
+Integrated Spatial Planning and Management,Environmental Assets
+Integrated Spatial Planning and Management,Flows to Economy
+Pollution Reduction and Circular Economy,Flows to Environment
+Pollution Reduction and Circular Economy,Governance
+Climate-Biodiversity,Environmental Assets
+Climate-Biodiversity,Flows to Economy
+Financial Instruments,Environmental Assets
+Financial Instruments,Flows to Economy
+Financial Instruments,Flows to Economy
+Financial Instruments,Social
+Governance and Legal Frameworks,Governance
+Governance and Legal Frameworks,Social
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Flows to Economy
+Integrated Monitoring Reporting and Data Systems,Ocean Economy
+Integrated Monitoring Reporting and Data Systems,Flows to Environment
+Integrated Monitoring Reporting and Data Systems,Governance
+Integrated Monitoring Reporting and Data Systems,Social
+Integrated Spatial Planning and Management,Environmental Assets
+Integrated Spatial Planning and Management,Environmental Assets
+Climate-Biodiversity,Environmental Assets
+Climate-Biodiversity,Flows to Economy
+Climate-Biodiversity,Environmental Assets
+Financial Instruments,Ocean Economy
+Financial Instruments,Governance
+Financial Instruments,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
+Integrated Monitoring Reporting and Data Systems,Flows to Economy
+Integrated Monitoring Reporting and Data Systems,Ocean Economy
+Integrated Monitoring Reporting and Data Systems,Flows to Environment
+Integrated Monitoring Reporting and Data Systems,Governance
+Integrated Monitoring Reporting and Data Systems,Social
+Integrated Spatial Planning and Management,Flows to Environment
+Integrated Spatial Planning and Management,Environmental Assets
+Pollution Reduction and Circular Economy,Flows to Environment
+Pollution Reduction and Circular Economy,Ocean Economy
+Governance and Legal Frameworks,Governance
+Governance and Legal Frameworks,Social
+Integrated Monitoring Reporting and Data Systems,Flows to Environment
+Integrated Monitoring Reporting and Data Systems,Environmental Assets
